@@ -85,4 +85,3 @@
   > https://sequelize.org/docs/v6/
   ```
   
-    
